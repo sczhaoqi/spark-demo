@@ -1,0 +1,6 @@
+package qa
+
+object HadoopSort {
+
+}
+
